@@ -1,6 +1,6 @@
 # Dashboard de Vendas - Power 
 
-![Dashboard de Vendas](dashboard-vendas.png)
+![Dashboard de Vendas](dashboard-vendas.png.png)
 
 Projeto de análise de vendas desenvolvido no Power BI utilizando dados fictícios de uma papelaria personalizada.
 
