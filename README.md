@@ -1,6 +1,6 @@
 # Dashboard de Vendas - Power BI
 
-Projeto de análise de vendas desenvolvido no Power BI utilizando dados fictícios de uma papelaria personalisada.
+Projeto de análise de vendas desenvolvido no Power BI utilizando dados fictícios de uma papelaria personalizada.
 
 ## Indicadores analisados
 
